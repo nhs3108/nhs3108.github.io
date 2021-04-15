@@ -23,7 +23,7 @@
 - Sau khi PUT 1 object mới, ta có thể đọc object ngay lập tức
 - Khi cập nhật hoặc xóa 1 cũ đang tồn tại, khi đọc ta vẫn có thể gặp trường hợp là thông tin của object cũ. Nguyên nhân là nó có thể đang trong quá trình replication giữa các AZ (Eventual consistency).
 
-- S3 đảm bảo 99.999999999 (11x9s) tính bền vững của dữ liệu
+- S3 đảm bảo 99.999999999% (11x9s) tính bền vững của dữ liệu
 
 
 **S3 có những tính năng sau**
