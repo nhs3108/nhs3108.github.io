@@ -6,4 +6,4 @@ Những bài viết dưới đây mục đích chính của mình là để ghi 
 
 Những bài viết này có thể bao gồm cả những quan điểm cá nhân hoặc vì khả năng tiếp nhận chưa được tốt mà sẽ có những sai sót, rất hi vọng các bạn bỏ qua và góp ý với mình qua địa chỉ hòm thư nhs3108@gmail.com . Hãy vote cho mình star ✴️ nếu như chúng giúp ích cho các bạn!  Xin chân thành cảm ơn.
 
-1. [Series Tự học AWS](./AWS/index.md)
+1. [Series Tự học AWS](AWS/index.md)
